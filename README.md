@@ -1,7 +1,6 @@
 ## my-Redux
 
 最近没啥事，自己简单实现了一个redux的简易版，源码中有很多错误处理，我只写了部分..🔥
-
 
 在`combineReduce`处是自己的实现，使用了函数式编程中的思想
 
@@ -22,7 +21,7 @@
 
 同样可以实现`state`的准确更新
 
-另外，redux中十分精彩的是`applyMiddleware`的实现
+另外，redux中十分精彩的是`applyMiddleware`的实现
 
 先来看下`middleware`的格式
 
